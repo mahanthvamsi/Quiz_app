@@ -2,7 +2,7 @@
 
 A simple quiz application built with Flutter as part of my learning journey.
 
-This project focuses on understanding Flutter fundamentals such as UI layout, navigation, state handling, and user interaction.
+This project focuses on understanding Flutter fundamentals such as UI layout, navigation, state handling, and user interaction. **This app is designed primarily for mobile devices.**
 
 ---
 
